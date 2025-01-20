@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Edin</h1>
-<h3 align="center">Software engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edinmesanvoic&label=Profile%20views&color=0e75b6&style=flat" alt="edinmesanvoic" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio.edinmesan.ba/](https://portfolio.edinmesan.ba/)
 
 - 📫 How to reach me **edo_tz_@hotmail.com**
